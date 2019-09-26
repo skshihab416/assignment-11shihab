@@ -1,0 +1,473 @@
+.no-padding{
+	padding: 0px;
+}
+.fa.fa-bars{
+	color: #fff;
+}
+
+
+.banner{
+
+	background:url(../img/banner.png) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 20px 0px 140px;
+	overflow: hidden;
+display: block;
+
+}
+
+.collapse.navbar-collapse ul li a{
+	color: #fff;
+	font-family: 'Lato', sans-serif;
+	transition: 0.7s ease;
+
+}
+
+.collapse.navbar-collapse ul li a:hover{
+	color: #ed145b;
+}
+
+.banner-one h3{
+	padding-top: 100px;
+color: #fff;
+font-family: 'Lato', sans-serif;
+text-align: center;
+font-size: 40px;
+}
+.underline{
+	display: block;
+	margin: 30px auto;
+	border-bottom: 2px solid #ed145b;
+	width: 150px;
+}
+
+.banner-one p{
+    color:#c7c7c7;
+font-family: 'Lato', sans-serif;
+text-align: center;
+font-size: 14px;
+font-family: 'Lato', sans-serif;
+}
+
+
+
+.btn-cstm{
+	display: block;
+	margin: 50px auto;
+	background-color: #ed145b;
+	border: 0;
+	padding: 8px 30px;
+	border-radius: 20px;
+	font-family: 'Lato', sans-serif;
+	transition: 0.7s ease;
+}
+
+.hero{
+padding: 30px 0px;
+
+}
+
+
+.hero-one h2{
+color: #c7c7c7;
+font-family: 'Lato', sans-serif;
+}
+
+.underline-one{
+	border-bottom: 2px solid  #ed145b;
+	display: block;
+	width: 160px;
+	margin: 20px 0px;
+}
+
+.hero-one p{
+	color: #c7c7c7;
+	font-family: 'Lato', sans-serif;
+}
+.hero-one h5{
+	font-size: 18px;
+	color:  #ed145b;
+	margin-top: 20px;
+}
+
+.hero-two img{
+ width: 90%;
+ float: right;
+}
+
+.our{
+	padding: 40px 0px;
+}
+.our-one h1{
+	text-align: center;
+
+}
+.underline-three{
+	display: block;
+	margin: 30px auto;
+	border-bottom: 2px solid #ed145b;
+	width: 150px;
+}
+
+.our-one p{
+	font-size: 13px;
+	text-align: center;
+}
+
+.man img{
+	display: block;
+	margin: 40px auto;
+}
+
+.man h5{
+	text-align: center;
+	margin: 15px 0px 40px;
+	color: #ed145b;
+	font-size: 13px;
+}
+.sk{
+	background:url(../img/photo.png) center top;
+	padding: 50px 0px;
+}
+
+
+.sk-one h2 i{
+	color: #ed145b;
+display: block;
+margin-left: 50%;
+padding: 20px 0px;
+}
+
+.sk-one p{
+   color: #fff;
+   text-align: center;
+   font-family: 'Lato', sans-serif;
+   font-size: 18px;
+}
+
+
+
+
+.angle h1 i{
+	color: #fff;
+	font-size: 80px;
+	margin-top: 70px;
+
+}
+
+.fa.fa-angle-right{
+	display: block;
+	float: right;
+}
+
+.price-main{
+	margin: 70px 0px;
+}
+.main{
+	padding: 50px 0px;
+	background-color: #f4f4f4;
+}
+
+.price{
+	position: relative;
+	padding: 20px 0px 15px;
+	background-color:#5a5a5a;
+	 transition: 0.9s ease;
+
+}
+.price-main:hover .price {
+     background-color:  #ed145b;
+	}
+
+.btn-cstm-one{
+	position: absolute;
+	background-color:#f4f4f4;
+ color: #474747;
+ font-weight:bold;
+ font-size: 14px;
+ border: 0;
+ border-radius: 20px;
+ padding: 8px 55px;
+ left: 35px;
+ transition: 0.7s ease;
+}
+.btn-cstm-one:hover{
+
+	background-color: #ed145b;
+	color:#fff;
+
+}
+
+
+
+
+.price h1{
+	color: #fff;
+	text-align: center;
+	font-size: 50px;
+  
+}
+.price span{
+	font-size: 15px;
+   
+}
+.price h6{
+	color: #ffff;
+	text-align: center;
+	font-size: 12px;
+   padding-bottom: 10px;
+}
+
+.price-box{
+padding-bottom: 30px;
+	background-color: #fff;
+}
+
+
+.price-box ul {
+	list-style-type: none;
+	padding: 40px 0px  15px;
+	text-align: center;
+}
+
+.price-box li {
+	font-family: 'Lato', sans-serif;
+	padding: 5px 0px;
+	
+}
+
+
+.btn-cstm-three{
+	background-color: #ed145b;
+	border-radius: 20px;
+	border: 0;
+	padding: 6px 45px;
+	color: #fff;
+   display: block;
+   margin: 0px auto;
+    transition: 0.7s ease;
+}
+
+.btn-cstm-three:hover{
+border: 1px solid  #ed145b;
+	background-color: #fff;
+	color:  #ed145b;
+
+}
+
+.don{
+	padding: 90px 0px 0px;
+}
+.don-two{
+	padding: 70px 0px 90px;
+}
+
+.don-one img{
+	float:left; 
+	margin: 18px;
+}
+
+.don-one h3{
+ color:  #ed145b;
+ font-size: 20px;
+
+}
+
+.don-one p{
+font-size: 13px;
+}
+
+.join{
+	background-color: #ed145b;
+	padding: 50px;
+}
+
+.join-one h1{
+    text-align: center;
+    color: #fff;
+}
+
+.join-two p{
+    background-color: #fff;
+    color:#ed145b ;
+    padding: 7px 30px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px 0px;
+    transition: 0.7s ease;
+}
+
+.join-two p:hover{
+    border: 1px solid #fff ;
+    background-color: #ed145b; 
+    color: #fff;
+}
+
+.ten{
+	padding: 60px 0px 80px;
+}
+
+.ego-one {
+    width: 100%;
+   
+    
+   
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.ego-one img {
+    width: 100%;
+    height: 100%;
+}
+
+.ego-two {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #ed145bab;
+    top: 0;
+    left: -100%;
+    transition: 0.7s ease;
+}
+
+.ego-one:hover .ego-two {
+	left: 0;
+
+}
+
+.fa.fa-search{
+	position: absolute;
+	color: #fff;
+	font-size: 50px;
+	left: 45%;
+	top: 40%;
+}
+.next{
+	margin: 40px 0px 70px;
+}
+
+
+.last{
+	background-color: #f4f4f4;
+}
+
+.last h5{
+  color: #5a5a5a;
+ padding: 15px 15px 0px;
+}
+
+.last p{
+	 color: #5a5a5a;
+	 font-size: 13px;
+	padding:15px 15px 15px;
+}
+
+.end h5{
+	color:  #ed145b;
+	text-align: center;
+
+}
+
+.fa.fa-angle-down {
+	color:  #ed145b;
+	display: block;
+ text-align: center;
+font-size: 30px;
+padding-bottom: 50px;
+
+}
+
+.song{
+ background:url(../img/photo.png) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 80px 0px 70px;
+	overflow: hidden;
+display: block;
+}
+
+
+.our-five h1{
+	text-align: center;
+color: #fff;
+}
+
+
+.our-five p{
+	font-size: 13px;
+	text-align: center;
+	color: #fff;
+}
+
+.btn-cstm-five{
+	display: block;
+	margin: 50px auto;
+	background-color: #ed145b;
+	border: 0;
+	padding: 8px 30px;
+	border-radius: 20px;
+	font-family: 'Lato', sans-serif;
+	transition: 0.7s ease;
+	margin-top: 70px;
+}
+
+
+
+
+
+
+.hero-hero-one h2{
+color: #8a8a8a;
+font-family: 'Lato', sans-serif;
+font-size: 25px;
+padding-top: 60px;
+}
+
+
+.hero-hero-one p{
+	color: #8a8a8a;
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+
+}
+
+.hero-hero-two img{
+ width: 95%;
+ 
+}
+
+.xxx-btn{
+	background-color:#ed145b;
+	color: #fff;
+	padding: 6px 15px;
+	border-radius: 20px;
+	margin: 15px 0px;
+	border: 1px solid #ed145b;
+
+
+}
+.xxx-btn:hover{
+	background-color: #dc3545;
+
+}
+
+.last-part{
+	background-color: #2b2b2b;
+	padding: 30px 0px;
+	
+}
+.last-end h6{
+	color: #fff;
+	text-align: center;
+	font-size: 12px;
+
+}
+
+.last-end b{
+	color: red;
+	font-size: 20px;
+
+}
